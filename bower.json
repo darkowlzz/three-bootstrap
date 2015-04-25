@@ -1,0 +1,8 @@
+{
+  "name": "temp",
+  "version": "0.0.0",
+  "dependencies": {
+    "threejs": "https://raw.githubusercontent.com/mrdoob/three.js/master/build/three.min.js"
+  }
+}
+
